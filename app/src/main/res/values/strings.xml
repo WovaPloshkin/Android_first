@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="question1">2+2=4</string>
-    <string name="question2">8–5=4</string>
-    <string name="question3">9–4=6</string>
-    <string name="question4">3+4=7</string>
-    <string name="question5">6–2=4</string>
+    <string name="question1">Red это красный?</string>
+    <string name="question2">Blue это зеленый?</string>
+    <string name="question3">Green это желтый?</string>
+    <string name="question4">Yellow это синий?</string>
+    <string name="question5">Black это черный?</string>
     <string name="correct">Правильно</string>
     <string name="incorrect">Неправильно</string>
     <string name="yes">Да</string>
